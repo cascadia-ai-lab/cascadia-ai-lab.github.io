@@ -188,7 +188,7 @@ node_modules/
 *.tsbuildinfo
 
 # npm/yarn/pnpm
-package-lock.json
+# package-lock.json is committed for reproducible builds
 yarn.lock
 pnpm-lock.yaml
 .npm
